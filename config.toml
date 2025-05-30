@@ -1,0 +1,13 @@
+[db]
+data-source = "postgres://postgres.lrefcdyunxbsntlxdtvy:Hellothere@240209@aws-0-ap-south-1.pooler.supabase.com:6543/postgres"
+prepare-stmt = false
+
+[db.pool]
+enable = false
+
+[jwt]
+allowed-users = ["Eartinity_AFK"]
+secret = "Hellothere@29"
+
+[tg.uploads]
+encryption-key = "Hellothere@29"
